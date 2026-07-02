@@ -3,7 +3,7 @@
 Welcome to the official technical repository for BrightLEDStore. We provide detailed specifications, installation guides, and performance analysis for our industrial power supply units.
 
 ### Featured Products
-- [NDR-240-24 Industrial Power Supply](https://brightledstore.com/product/ndr-240-24) - High-efficiency power solution for LED lighting and automation.
+- [24V Power Supply](https://www.brightledstore.com/products/power-supplies/24v-power-supply/) - High-efficiency power solution for LED lighting.
 
 ### Why Choose BrightLEDStore?
 - **Professional Support:** Real-world testing data for all catalog items.
